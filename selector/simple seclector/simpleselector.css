@@ -1,0 +1,44 @@
+/* 1 universal selector */
+/* *{
+    color: yellowgreen;
+    background-color: antiquewhite;
+} */
+
+/* element selector */
+div{
+    font-size: 70px;
+    color: brown;
+}
+
+/* class selector */
+.mahi{
+    text-shadow: 2px 4px green;
+}
+
+.ak{
+    color: blueviolet;
+    text-shadow: 9px 4px gold;
+}
+
+.mahi,.ak{
+    background-color: aqua;
+} 
+/* when we have to give same baground color for diff class */
+
+
+#hello{
+    color: blue;
+    background-color: bisque;
+}
+#rk{
+    text-shadow: 2px 4px green;
+}
+
+#hii{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: yellow;
+}
+.myself{
+    color: brown;
+    background-color: blue;
+}
